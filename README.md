@@ -22,6 +22,7 @@ How to contact me: Just send email to [vlad123123v@gmail.com](mailto:vlad123123v
 ![](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Flask-316192?style=for-the-badge&logo=flask&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Aiogram-316192?style=for-the-badge&logo=aiogram&logoColor=black)
+![](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
