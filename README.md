@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋
-I'm a Python Developer, currently working at [tgproger]( https://tgproger.ru).
+I'm a Python Developer, currently working at [tgproger](https://tgproger.ru).
 
-How to contact me: Just send email to [vlad123123v@gmail.com](mailto:vlad123123v@gmail.com)
+How to contact me: Just send email to [vlad123123v@gmail.com](mailto:vlad123123v@gmail.com) or [Telegram](https://t.me/tgbotproger)
 
 ## My tech stack
 
