@@ -57,7 +57,7 @@ How to contact me: Just send to [Telegram](https://t.me/tgbotproger)
 ![](https://img.shields.io/badge/code-316192?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)
 
 
-## Python (3.6-3.11)
+## Python (3.6-3.11+)
 OOP, SOLID, PEP-8, Flask, FastApi, Asyncio,
 
 SQLAlchemy ORM, Aiohttp, Aiogram, Requests,
