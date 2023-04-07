@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- from https://simpleicons.org/ and https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
 # Hi there 👋
-Hello im 19 y'o Backend Developer.
+Hello im 19 y'o Backend Developer / DevOps.
 Road to the 100+ repositories
 
 How to contact me: Just send to [Telegram](https://t.me/tgbotproger)
