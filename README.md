@@ -33,7 +33,7 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 
 ## Languages stats
 <!-- Languages stats -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad2030&langs_count=15)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad2030&langs_count=10)
 
 
 ## Databases
