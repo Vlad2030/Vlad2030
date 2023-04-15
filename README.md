@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Hello im 19 y'o Backend Developer / DevOps.
 Road to the 100+ repositories
 
-How to contact me: Just send to [Telegram](https://t.me/tgbotproger)
+How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 
 # My tech stack
 
