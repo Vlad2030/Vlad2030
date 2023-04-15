@@ -26,9 +26,9 @@ How to contact me: Just send to [Telegram](https://t.me/tgbotproger)
 ## Languages
 ![](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/GNU%20Bash-316192?style=for-the-badge&logo=gnubash&logoColor=white&color=4EAA25)
-![](https://img.shields.io/badge/Go-316192?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
 ![](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=c&logoColor=black&color=A8B9CC)
-![](https://img.shields.io/badge/Csharp-316192?style=for-the-badge&logo=csharp&logoColor=white&color=239120)
+<!-- ![](https://img.shields.io/badge/Go-316192?style=for-the-badge&logo=go&logoColor=white&color=00ADD8) -->
+<!-- im noob ![](https://img.shields.io/badge/Csharp-316192?style=for-the-badge&logo=csharp&logoColor=white&color=239120) -->
 
 
 ## Languages stats
