@@ -50,10 +50,15 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 ![](https://img.shields.io/badge/Ubuntu-316192?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
 
 
-## Other
-<!-- Something -->
+## DevOps
+<!-- DevOps -->
 ![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Terraform-316192?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
+
+
+## Other
+<!-- something -->
 ![](https://img.shields.io/badge/code-316192?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)
 
 
@@ -68,9 +73,6 @@ JSON, Websockets, Subprocess, standard libraries
 ![](https://img.shields.io/badge/Flask-316192?style=for-the-badge&logo=flask&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/AIOHTTP-316192?style=for-the-badge&logo=aiohttp&logoColor=white&color=2C5BB4)
 ![](https://img.shields.io/badge/JSON-316192?style=for-the-badge&logo=json&logoColor=white&color=000000)
-
-
-
 
 
 ## Stats
