@@ -36,6 +36,14 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad2030&langs_count=10)
 
 
+## DevOps
+<!-- DevOps -->
+![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Terraform-316192?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
+![](https://img.shields.io/badge/Ansible-316192?style=for-the-badge&logo=ansible&logoColor=white&color=EE0000)
+
+
 ## Databases
 <!-- Databases -->
 ![](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
@@ -48,13 +56,6 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 ![](https://img.shields.io/badge/Linux-316192?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![](https://img.shields.io/badge/Debian-316192?style=for-the-badge&logo=debian&logoColor=white&color=A81D33)
 ![](https://img.shields.io/badge/Ubuntu-316192?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
-
-
-## DevOps
-<!-- DevOps -->
-![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)
-![](https://img.shields.io/badge/Terraform-316192?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
 
 
 ## Other
