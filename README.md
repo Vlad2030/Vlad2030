@@ -43,7 +43,7 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 ![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)
 ![](https://img.shields.io/badge/Terraform-316192?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
-![](https://img.shields.io/badge/Ansible-316192?style=for-the-badge&logo=ansible&logoColor=white&color=EE0000)
+<!-- later ![](https://img.shields.io/badge/Ansible-316192?style=for-the-badge&logo=ansible&logoColor=white&color=EE0000) -->
 
 
 ## Databases
