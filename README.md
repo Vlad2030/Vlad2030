@@ -38,7 +38,7 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad2030&langs_count=10)
 
 
-## DevOps
+## DevOps SRE
 <!-- DevOps -->
 ![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)
