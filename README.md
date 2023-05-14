@@ -21,6 +21,8 @@ Road to the 100+ repositories
 
 How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 
+![](https://komarev.com/ghpvc/?username=vlad2030&color=blueviolet)
+
 # My tech stack
 
 ## Languages
