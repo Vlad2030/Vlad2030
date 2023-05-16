@@ -29,8 +29,8 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 ![](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/GNU%20Bash-316192?style=for-the-badge&logo=gnubash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/HCL-316192?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
-![](https://img.shields.io/badge/HTML5-316192?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/CSS3-316192?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+<!-- HTML is not a lang ![](https://img.shields.io/badge/HTML5-316192?style=for-the-badge&logo=html5&logoColor=white&color=E34F26) -->
+<!-- CSS is not a lang ![](https://img.shields.io/badge/CSS3-316192?style=for-the-badge&logo=css3&logoColor=white&color=1572B6) -->
 <!-- when i get old ![](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=c&logoColor=black&color=A8B9CC) -->
 <!-- later ![](https://img.shields.io/badge/Go-316192?style=for-the-badge&logo=go&logoColor=white&color=00ADD8) -->
 <!-- bruh im noob ![](https://img.shields.io/badge/Csharp-316192?style=for-the-badge&logo=csharp&logoColor=white&color=239120) -->
