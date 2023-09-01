@@ -30,6 +30,7 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 
 ## Languages
 ![](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Cpp-316192?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/GNU%20Bash-316192?style=for-the-badge&logo=gnubash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/HCL-316192?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
 <!-- HTML is not a lang 
