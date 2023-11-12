@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 # Hi there 👋
 Hello im 19 y'o Backend Developer / DevOps.
 
-Team Lead Backend at [Thoughty](https://github.com/thoughty-app)
+Team Lead Backend at [Thoughty](https://github.com/thoughty-app)  
+[PulsarTech](https://github.com/pulsar-technologies) Founder
 
 Road to the 100+ repositories
 
