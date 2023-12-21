@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- from https://simpleicons.org/ and https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
 # Hi there 👋
-Hello im 19 y'o Backend Developer / DevOps.
+Hello im 20 y'o Backend Developer / DevOps.
 
 Team Lead Backend at [Thoughty](https://github.com/thoughty-app)  
 [PulsarTech](https://github.com/pulsar-technologies) Founder
