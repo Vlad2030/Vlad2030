@@ -33,29 +33,23 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 
 ## Languages
 ![](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Cython-316192?style=for-the-badge&logo=python&logoColor=black&color=F7DF1E)
 ![](https://img.shields.io/badge/C++-316192?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/Go-316192?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
-<!-- hell no
-![](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC) -->
+![](https://img.shields.io/badge/Typescript-316192?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/GNU%20Bash-316192?style=for-the-badge&logo=gnubash&logoColor=white&color=4EAA25)
+<!-- not much
+![](https://img.shields.io/badge/Cython-316192?style=for-the-badge&logo=python&logoColor=black&color=F7DF1E) -->
+<!-- not ready today
+![](https://img.shields.io/badge/Go-316192?style=for-the-badge&logo=go&logoColor=white&color=00ADD8) -->
+<!-- hell nah
+![](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC) -->
 <!-- forgot lmao
 ![](https://img.shields.io/badge/HCL-316192?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC) -->
-<!-- HTML is not a lang 
-![](https://img.shields.io/badge/HTML5-316192?style=for-the-badge&logo=html5&logoColor=white&color=E34F26) -->
-<!-- CSS is not a lang
-![](https://img.shields.io/badge/CSS3-316192?style=for-the-badge&logo=css3&logoColor=white&color=1572B6) -->
 <!-- when i get old 
 ![](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=c&logoColor=black&color=A8B9CC) -->
-<!-- later 
-![](https://img.shields.io/badge/Go-316192?style=for-the-badge&logo=go&logoColor=white&color=00ADD8) -->
-<!-- bruh im noob 
-![](https://img.shields.io/badge/Csharp-316192?style=for-the-badge&logo=csharp&logoColor=white&color=239120) -->
-
 
 ## Languages stats
 <!-- Languages stats -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad2030&langs_count=15)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad2030&langs_count=5)
 <!--
 ![Stats](https://metrics.lecoq.io/Vlad2030?template=classic&base.indepth=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.ignored=html%2C%20css%2C%20php&languages.limit=20&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=30&config.timezone=Europe%2FMoscow)
 -->
