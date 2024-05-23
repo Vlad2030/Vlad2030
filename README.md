@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 # Hi there 👋
 Hello im 20 y'o Backend Developer / Automation Crypto Trading Engineer.
 
-<!-- Team Lead Backend at [Thoughty](https://github.com/thoughty-app) OUTDATED -->  
+<!-- Team Lead Backend at [Thoughty](https://github.com/thoughty-app) OUTDATED -->
+
+<!--
 [PulsarTech](https://github.com/pulsar-technologies) Founder\
 [Degen trade](https://t.me/chad_trade) Founder\
 [SOL Fucker](https://t.me/solfucker_channel) Founder
+-->
 
 Road to the 100+ repositories
 
@@ -33,9 +36,12 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 
 ## Languages
 ![](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/C++-316192?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/Typescript-316192?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
-![](https://img.shields.io/badge/GNU%20Bash-316192?style=for-the-badge&logo=gnubash&logoColor=white&color=4EAA25)
+<!--
+![](https://img.shields.io/badge/C++-316192?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C) -->
+<!--
+![](https://img.shields.io/badge/Typescript-316192?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6) -->
+<!--
+![](https://img.shields.io/badge/GNU%20Bash-316192?style=for-the-badge&logo=gnubash&logoColor=white&color=4EAA25) -->
 <!-- not much
 ![](https://img.shields.io/badge/Cython-316192?style=for-the-badge&logo=python&logoColor=black&color=F7DF1E) -->
 <!-- not ready today
