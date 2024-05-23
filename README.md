@@ -63,8 +63,10 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 ## DevOps
 <!-- DevOps -->
 ![](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5)
-![](https://img.shields.io/badge/Terraform-316192?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC)
+<!--
+![](https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5) -->
+<!--
+![](https://img.shields.io/badge/Terraform-316192?style=for-the-badge&logo=terraform&logoColor=white&color=7B42BC) -->
 ![](https://img.shields.io/badge/Ansible-316192?style=for-the-badge&logo=ansible&logoColor=white&color=EE0000)
 ![](https://img.shields.io/badge/NGINX-316192?style=for-the-badge&logo=nginx&logoColor=white&color=009639)
 
@@ -74,8 +76,10 @@ How to contact me: Just send to [Telegram](https://t.me/delovoy_hui)
 ![](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
-![](https://img.shields.io/badge/Redis-316192?style=for-the-badge&logo=redis&logoColor=white&color=DC382D)
-![](https://img.shields.io/badge/Elasticsearch-316192?style=for-the-badge&logo=elasticsearch&logoColor=white&color=005571)
+<!--
+![](https://img.shields.io/badge/Redis-316192?style=for-the-badge&logo=redis&logoColor=white&color=DC382D) -->
+<!--
+![](https://img.shields.io/badge/Elasticsearch-316192?style=for-the-badge&logo=elasticsearch&logoColor=white&color=005571) -->
 
 
 ## OS
