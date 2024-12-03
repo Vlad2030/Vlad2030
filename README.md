@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=vlad2030&color=blueviolet)
-Hello im 20 y'o Developer.
+Hello im 21 y'o Developer.
 
 Road to the 100+ repositories
 
